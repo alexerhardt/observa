@@ -1,0 +1,10 @@
+# environment variables
+.env
+.env.*
+
+# macOS-specific files
+.DS_Store
+
+# Obsidian config
+.obsidian/
+.obsidian.vimrc
