@@ -8,3 +8,6 @@
 # Obsidian config
 .obsidian/
 .obsidian.vimrc
+
+# Private stuff
+private/

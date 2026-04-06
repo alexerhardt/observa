@@ -1,0 +1,13 @@
+- [ ] Organize notes taken so far
+- [x] Carry out research of Spanish data landscape
+- [x] Wire Claude Cowork
+- [ ] Research and create ADR system
+	- [ ] Add Context7
+- [ ] Write initial project context
+- [ ] Find ~20 design references
+- [ ] Add OWID code as reference
+- [ ] Build definitions from OECD, INE, Eurostat
+- [ ] Set up dev environment
+- [ ] Define "MVP"
+- [ ] Create Obsidian ticketing system or backlog
+- [ ] Check out Flourish
