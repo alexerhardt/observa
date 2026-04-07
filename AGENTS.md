@@ -1,3 +1,5 @@
+## Introduction to Observa
+
 Observa is a platform that aggregates data about the Spanish economy and society.
 
 It consists of:
@@ -27,6 +29,8 @@ We *may* in the future add sources of revenue such as a premium API for enterpri
 
 For now, the repo's official language is English. That includes code as well as non-code artifacts. The default public language (for the website, chart legends, social media communications, etc.) is Spanish. This decision is still under review.
 
+## Development and Authoring Environment
+
 Right now, we are working with the following tooling:
 
 **Obsidian** as a vault matching the root for superior markdown editing and usage of Bases. We will favor the Obsidian (and Notion) model of "documents-as-records", with lists (in our case, Bases) sporadically laid on top. 
@@ -38,6 +42,11 @@ Right now, we are working with the following tooling:
 **Jetbrains IDEs** as the main driver for code editing.
 
 Obsidian is currently set up so that all images are stored in `doc-media` folders adjacent to the data sources. Bear that in mind if you manipulate docs.
+
+
+## Minimum Viable Product Definition
+
+A draft can be found at `MVP Definition.md`
 
 
 

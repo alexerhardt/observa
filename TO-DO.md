@@ -1,19 +1,41 @@
 
-My personal TO-DO list, more than a backlog
+My personal TO-DO list. 
 
 - [ ] Organize notes taken so far
 - [x] Carry out research of Spanish data landscape
 - [x] Wire Claude Cowork
+- [x] Add Context7
 - [ ] Research and create ADR system
-	- [x] Add Context7
-- [ ] Write initial project context
-- [ ] Find ~20 design references
-- [ ] Find 20 mobile references
+	- [ ] Document everything in codebase
+	- [ ] Document Spanish as codebase default
+	- [ ] Document Obsidian as default for everything?
+	- [ ] Document Obsidian as Issue tracker
+- [x] Write initial project context
+- [x] Find ~20 design references
+- [ ] Find 20 mobile references for data-intensive apps
 - [ ] Add OWID code as reference
 - [ ] Build definitions from OECD, INE, Eurostat
 - [ ] Set up dev environment
-- [ ] Define "MVP"
-- [ ] Create Obsidian ticketing system or backlog
+- [x] Define "MVP"
+- [x] Create Obsidian ticketing system or backlog
 - [ ] Check out Flourish
-- [ ] Can Obsidian Sync be made to work with git sync?
-- [ ] Research Obsidian templates and shortcuts
+- [x] Can Obsidian Sync be made to work with git sync?
+- [x] Research Obsidian templates and shortcuts
+- [ ] Left bar navigation research
+	- [ ] Deep research 20-30 websites with left navigation
+	- [ ] Deep research principles of left navigation design
+		- [ ] Check how popular design systems do it
+			- [ ] shadcn
+			- [ ] MaterialUI
+			- [ ] The Palantir one
+- [ ] Specify 9 starting charts
+	- Review research
+	- Pick definitive source(s)
+	- Specify basic design:
+		- Chart type
+		- Range
+		- Countries
+		- Defaults
+- [ ] Specify data pipeline design
+	- Where do the top-level defs live?
+	- How do we acquire it?
