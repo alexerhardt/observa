@@ -12,11 +12,12 @@ It is inspired by sites like Our World in Data, but with a singular focus on Spa
 
 The core of the website and pipeline will be open source. That will include not only code, but also organizational aspects such as research, processes, and architecture. This repo will therefore contain a maximum of publishable information about the company - pretty much everything except credentials, sensitive information or drafts not worth committing.
 
-A central theme of the project is Artificial Intelligence, in at least three aspects:
+A central theme of the project is Artificial Intelligence, in at least these aspects:
 
 1. As means to produce code
 2. As means to produce non-technical info (research, docs on process and architecture, etc)
 3. As means of interaction for end-users (ie, being able to query the data with AI)
+4. In that it's meant to help track the impact of AI in the economy
 
 To emphasize: we will publish not only the code and website, but also the methods employed to achieve the results. We hope the project may serve as inspiration for people trying to build similar projects or even new enterprises and non-profits with new ways of working.
 
