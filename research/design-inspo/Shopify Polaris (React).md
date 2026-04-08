@@ -18,4 +18,4 @@ Shows many things in action, including:
 - Multiple themes, sidebar sections, nested (up to 2-3? levels)
 
 
-![](doc-media/polaris-docs-examples.mov)
+![](doc-media/polaris-docs-examples.mp4)

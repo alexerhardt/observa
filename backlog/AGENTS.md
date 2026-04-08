@@ -14,5 +14,4 @@ The following format must be respected:
 - Default state should be Backlog, unless otherwise specified
 - There is no need to add labels, unless explicitly asked for
 
-
 When creating an issue be sure to take the latest number from the filename and create the next sequential one.
