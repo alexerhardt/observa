@@ -24,10 +24,12 @@ My personal TO-DO list.
 - [ ] Left bar navigation research
 	- [ ] Deep research 20-30 websites with left navigation
 	- [ ] Deep research principles of left navigation design
-		- [ ] Check how popular design systems do it
-			- [ ] shadcn
-			- [ ] MaterialUI
-			- [ ] The Palantir one
+		- [x] Check how popular design systems do it
+			- [x] shadcn
+			- [x] MaterialUI
+			- [x] The Palantir one
+			- [x] Chakra
+			- [x] Adobe S2
 - [ ] Specify 9 starting charts
 	- Review research
 	- Pick definitive source(s)
@@ -39,3 +41,4 @@ My personal TO-DO list.
 - [ ] Specify data pipeline design
 	- Where do the top-level defs live?
 	- How do we acquire it?
+- [ ] Research how to create design system
